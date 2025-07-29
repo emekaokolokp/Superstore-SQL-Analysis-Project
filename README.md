@@ -28,12 +28,12 @@ The analysis covers overall performance, regional trends, customer segments, and
 ## 🗂️ Project Structure
 superstore-sales-insights/
 ├── data/
-│   └── superstore_clean.csv
+  └── superstore_clean.csv
 ├── queries/
-│   └── superstore_sales.sql
+  └── superstore_sales.sql
 ├── results/
-│   ├── total_sales_profit.csv
-│   ├── top_products.csv
-│   ├── monthly_sales_trend.csv
-│   └── customer_segment_analysis.csv
+ ├── total_sales_profit.csv
+ ├── top_products.csv
+ ├── monthly_sales_trend.csv
+ └── customer_segment_analysis.csv
 ├── README.md
